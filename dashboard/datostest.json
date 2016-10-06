@@ -1,0 +1,24 @@
+{
+	"report": 
+	{
+		"title": "PKI REPORT",
+		"name": "Report to see pki metrics and uses",
+		"reporteDatos": 
+		[
+			{
+				"columna1": "dato 1",
+				"columna2": "dato 2 "
+			},
+
+			{
+				"columna1": "dato 3",
+				"columna2": "dato 4 "
+			},
+
+			{
+				"columna1": "dato 5",
+				"columna2": "dato 6 "
+			}
+		]
+	}
+}
